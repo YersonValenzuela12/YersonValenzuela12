@@ -2,7 +2,8 @@
 <!--  -->
 <br> - I'm passionate Self-taught Front-end developer
 <br> - I'm Currently learning Web Development by Self
-<br> - I’m currently open for an Intern or a new job opportunity, this is [my resume] 
+<br> - I’m currently open for an Intern or a new job opportunity, this is [my resume] https://read.cv/yersonvalenzuela12
+<br> - 🎯 Know about my experiences www.linkedin.com/in/yerson-ruan-valenzuela-barzola-08bbaa107
 <p align="center">
 
 - **Languages**:
@@ -19,10 +20,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
-- **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
 
 - **Softwares and Tools**:
