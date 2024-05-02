@@ -1,15 +1,15 @@
 <h1 align="center"><b>Hi, I’m Yerson Valenzuela Barzola  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<br> - I'm passionate Self-taught Front-end developer
-<br> - I'm Currently learning Web Development by Self
-<br> - I’m currently open for an Intern or a new job opportunity, this is [my resume] https://read.cv/yersonvalenzuela12
+<br> - 🎯 I'm passionate Self-taught Front-end developer.
+<br> - 🎯 I'm Currently learning Web Development by Self.
+<br> - 🎯 I’m currently open for an Intern or a new job opportunity.
 <br> - 🎯 Know about my experiences www.linkedin.com/in/yerson-ruan-valenzuela-barzola-08bbaa107
 <p align="center">
 
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP-PHP?logoColor=blue)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
