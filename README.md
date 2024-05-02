@@ -5,8 +5,7 @@
 <br> - 🎯 I’m currently open for an Intern or a new job opportunity.
 <br> - 🎯 Know about my experiences www.linkedin.com/in/yerson-ruan-valenzuela-barzola-08bbaa107
 <p align="center">
--** Skill**
-<br>
+
 - **Languages**:
     
     ![C#](https://img.shields.io/badge/C%23-C%23?logoColor=blue)
