@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I’m Yerson Valenzuela Barzola 👋 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I’m Yerson Valenzuela Barzola  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <br> - I'm passionate Self-taught Front-end developer
 <br> - I'm Currently learning Web Development by Self
@@ -23,7 +23,6 @@
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
 <br>
 
 - **Softwares and Tools**:
