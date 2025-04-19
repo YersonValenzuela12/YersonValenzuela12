@@ -4,7 +4,7 @@
 <br> - 🎯 I'm passionate Self-taught Front-end developer.
 <br> - 🎯 I'm Currently learning Web Development by Self.
 <br> - 🎯 I’m currently open for an Intern or a new job opportunity.
-<br> - 🎯 Know about my experiences www.linkedin.com/in/yerson-ruan-valenzuela-barzola-08bbaa107
+<br> - 🎯 Know about my experiences www.linkedin.com/in/yerson-ruan-valenzuela-barzola
 <p align="center">
 
 - **Languages**:
